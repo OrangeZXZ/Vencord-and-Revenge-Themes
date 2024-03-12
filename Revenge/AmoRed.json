@@ -1,0 +1,76 @@
+{
+	"name":			"AmoRed",
+	"description":	"The Discord theme that is as rediculous as yourself.",
+	"version": "0.1",
+	"authors": [ {
+		"name":		"OrangeZXZ",
+		"id":		"440168985615400984"
+	}, ],
+
+	"semanticColors": {
+		"CARD_PRIMARY_BG":					["#000000"],
+		"HEADER_PRIMARY":					["#ffffff"],
+		"HEADER_SECONDARY":					["#BF40BF"],
+		"TEXT_NORMAL":						["#ffffff"],
+		"TEXT_MUTED":						["#BF40BF"],
+		"TEXT_LINK":						["#BF40BF"],
+		"TEXT_DANGER":						["#BF40BF"],
+		"INTERACTIVE_NORMAL":				["#ffffff"],
+		"INTERACTIVE_ACTIVE":				["#BF40BF"],
+		"INTERACTIVE_MUTED":				["#808080"],
+		"BACKGROUND_PRIMARY":				["#000000"],
+		"BACKGROUND_SECONDARY":				["#000000"],
+		"BACKGROUND_SECONDARY_ALT":			["#000000"],
+		"BACKGROUND_TERTIARY":				["#000000"],
+		"BACKGROUND_ACCENT":				["#BF40BF"],
+		"BACKGROUND_MOBILE_PRIMARY":		["#000000"],
+		"BACKGROUND_MOBILE_SECONDARY":		["#000000"],
+		"BACKGROUND_MENTIONED":				["#922492"],
+		"BACKGROUND_MODIFIER_ACTIVE":		["#000000"],
+		"BACKGROUND_MODIFIER_SELECTED":		["#BF40BF55"],
+		"BACKGROUND_MODIFIER_ACCENT":		["#000000"],
+		"SPOILER_HIDDEN_BACKGROUND":		["#000000"],
+		"SPOILER_REVEALED_BACKGROUND":		["#000000"],
+		"CHANNEL_TEXT_AREA_PLACEHOLDER":	["#999999"],
+		"CHAT_BACKGROUND":					["#000000"],
+		"CHANNELS_DEFAULT":					["#c4c4c4"],
+		"TEXT_LINK":						["#BF40BF"],
+		"CHANNEL_ICON":						["#ffffff"]
+	},
+
+	"rawColors": {
+		"PRIMARY_100":	"#ffffff",
+		"PRIMARY_200":	"#ffffff",
+		"PRIMARY_300":	"#ffffff",
+		"PRIMARY_360":	"#BF40BF",
+		"PRIMARY_500":	"#BF40BF",
+		"PRIMARY_600":	"#000000",
+		"PRIMARY_630":	"#000000",
+		"PRIMARY_660":	"#000000",
+		"PRIMARY_700":	"#000000",
+		"PRIMARY_800":	"#000000",
+		"BRAND_260":	"#ffffff",
+		"BRAND_360":	"#BF40BF",
+		"BRAND_500":	"#BF40BF",
+		"BRAND_560":	"#ffffff",
+		"WHITE_500":	"#ffffff",
+		"BLUE_345":		"#BF40BF",
+		"YELLOW_300":	"#BF40BF",
+		"ORANGE_345":	"#BF40BF",
+		"GREEN_345":	"#BF40BF",
+		"GREEN_360":	"#BF40BF",
+		"RED_560":		"#BF40BF",
+		"RED_400":		"#BF40BF"
+	},
+
+	"spec":			2,
+	"background": {
+		"color":	"#000000"
+	},
+
+	"plus": {
+		"version":			0,
+		"unreadBadgeColor":	"#BF40BF",
+		"iconpack":			"md3"
+	}
+}
