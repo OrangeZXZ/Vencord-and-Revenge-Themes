@@ -1,7 +1,0 @@
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
-
-:root {
-	--accentcolor:	255, 0, 0;	/* blurple-default: 88, 101, 242 */
-	--accentcolor2:	225, 115, 250;	/* boostpink-default: 255, 115, 250 */
-	--linkcolor:	255, 0, 0;	/* link-default: 0, 176, 244 */
-}
